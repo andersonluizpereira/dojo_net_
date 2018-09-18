@@ -15,6 +15,7 @@ Observações
 ------------
 * Assassinatos realizados pelo &lt;WORLD&gt; devem ser desconsiderados, no entanto, as mortes causadas pelo &lt;WORLD&gt; devem ser consideradas para o jogador que foi morto.
 
+Favor inserir o CSV na pasta 'C:\temp'
 
 Bônus
 -----
